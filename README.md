@@ -1,2 +1,3 @@
-# Portfolio
-Repositório de projeto web de um portfolio, desenvolvido com React.
+# Portfólio
+Repositório Web de um portfólio, desenvolvido com React. <br/>
+Pode ser visto clicando [aqui](https://junicola.github.io/portfolio).
