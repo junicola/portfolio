@@ -15,7 +15,6 @@ const Main = () => {
       <Home />
       <About />
       <Habilidades />
-      <Blog />
       <Portfolio />
       <Bio />
       <Contato />
