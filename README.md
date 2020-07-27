@@ -1,3 +1,2 @@
 # Portfólio
-Repositório Web de um portfólio, desenvolvido com React. <br/>
-Pode ser visto clicando [aqui](https://junicola.github.io/portfolio).
+Repositório Web do meu primeiro portfólio, desenvolvido com React.js. <br/>
